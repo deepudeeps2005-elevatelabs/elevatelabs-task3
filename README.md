@@ -95,7 +95,11 @@ Informational	31	Low	90 days
 ### ⚙️ SCAN CONFIGURATION
 
 Tool: Nessus Essentials
+
 Policy: Basic Network Scan
+
 Target: 192.168.56.1 (Local Machine)
+
 Duration: 8 minutes
+
 CVSS Version: v3.0
